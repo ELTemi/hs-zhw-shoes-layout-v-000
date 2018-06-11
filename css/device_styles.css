@@ -81,6 +81,7 @@
 
 	.border_right {
 		border-right: 0;
+		display: inline-block;
 	}
 
 	.hider {
