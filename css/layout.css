@@ -24,17 +24,15 @@
 
 /* Posititoning Classes */
 .col-1 {
-  display: inline-block;
-  width: auto;
+  float: left;
+  width: 30px;
 }
 
 .col-2 {
-  display: inline-block;
-  width: auto;
+  float: left;
+  width: 62px
 }
 
 .col-3 {
   background: #ccc;
-  display: inline-block;
-  width: auto;
 }
